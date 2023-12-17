@@ -3,8 +3,10 @@
 The P-I-GAT model is used for achieving the graded diagnoisis of depression.
 
 
-Hardware: 4.7GHz Intel Core i7 processor 
-           16GB LPDDR5 RAM
+Hardware: 4.7GHz Intel Core i7 Processor 
+          16GB LPDDR5 RAM
 
 
-Environment: PyTorch framework
+Environment: Python (-Version 3.9.7)
+             PyTorch framework (-Version1.12.1)
+
